@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, We are Asultancy Sdn. Bhd.</h1>
 <h3 align="center">A group full of passionate developers & businessmen from around the world based in Malaysia.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asultancy-sdn-bhd" alt="asultancy-sdn-bhd" /></a> </p>
-
 - 🔭 We're currently working on [MySolusy Malaysia](https://mysolusy.my/)
 
 - 👯 We're looking for Go Programmers on Project [MySolusy Malaysia](https://mysolusy.my/)
