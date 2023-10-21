@@ -3,9 +3,7 @@
 
 - 🔭 We're currently working on [MySolusy Malaysia](https://mysolusy.my/)
 
-- 👯 We're looking for Go Programmers on Project [MySolusy Malaysia](https://mysolusy.my/)
-
-- 🤝 We're looking for investors on project [MySolusy Malaysia](https://mysolusy.my/)
+- 🤝 We're looking for investors on the project [MySolusy Malaysia](https://mysolusy.my/)
 
 
 <h3 align="left">Languages and Tools:</h3>
