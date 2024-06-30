@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, We are Asultancy Sdn. Bhd.</h1>
 <h3 align="center">A group full of passionate developers & businessmen from around the world based in Malaysia.</h3>
 
-- 🔭 We're currently working on [MySolusy Malaysia](https://mysolusy.my/)
 
-- 🤝 We're looking for investors on the project [MySolusy Malaysia](https://mysolusy.my/)
 
 
 <h3 align="left">Languages and Tools:</h3>
