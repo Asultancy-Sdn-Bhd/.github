@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, We are Asultancy Sdn. Bhd.</h1>
-<h3 align="center">A group full of passionate developers & businessmen from around the world based in Malaysia.</h3>
+<h1 align="center">Hi 👋, We are Asultancy </h1>
+<h3 align="center">Empowering Growth Through Technology.</h3>
 
 
 
